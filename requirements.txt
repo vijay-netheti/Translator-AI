@@ -1,0 +1,9 @@
+streamlit
+faster-whisper
+ffmpeg-python
+numpy
+pandas
+deep-translator
+audio-recorder-streamlit
+gTTS
+ctranslate2==4.4.0
